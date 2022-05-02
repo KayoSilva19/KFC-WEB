@@ -3,10 +3,10 @@
 
 ## Screenshots
 
-![App Screenshot](./Assets//images/ImgSite.png)
+![App Screenshot](./Assets//images/imgSite.png)
 <br/>
 
-![App Screenshot](./Assets//images/ImgSite1.png)
+![App Screenshot](./Assets//images/imgSite1.png)
 
 ## Stack utilizada
 
